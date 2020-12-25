@@ -4,3 +4,7 @@
 - Then, the non-linear system is converted to linear system which is simulated. Further, this linear system is simplified in order to build a proportional controller on it.
 - Proportional control design approach is discussed and documented and is verified against different reference inputs provided to the system for the position of the cart.
 - Also, some aspects of this system such as comparison between approximated decoupled model and true coupled model response is discussed.
+
+# Technologies Used
+- Scripting Language - MATLAB
+- Simulation Platform - Simulink
